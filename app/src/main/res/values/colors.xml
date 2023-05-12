@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gold">#B7935F</color>
+    <color name="dark_gold">#9A7C50</color>
+    <color name="light_black">#242424</color>
+    <color name="light_blue">#141A2E</color>
+    <color name="dark_blue">#0D111E</color>
+    <color name="light_gold">#FACC1D</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
